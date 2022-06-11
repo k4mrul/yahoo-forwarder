@@ -1,3 +1,3 @@
 # yahoo-forwarder
 
-Forward yahoo email to another mailbox
+Forward yahoo emails to another mailbox
